@@ -2,8 +2,8 @@
 layout: post
 title: "Probeersels"
 description: ""
-category: 
-tags: []
+category:  [test]
+tags: [test]
 ---
 {% include JB/setup %}
 
