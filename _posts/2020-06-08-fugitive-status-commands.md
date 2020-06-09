@@ -2,8 +2,8 @@
 layout: post
 title: "Fugitive Status commandos"
 description: ""
-category: editor,vim
-tags: [vim;fugitive]
+category: [editor, vim]
+tags: [vim, fugitive]
 ---
 {% include JB/setup %}
 
