@@ -3,7 +3,7 @@ layout: post
 title: "Oracle Auditing uit"
 description: "Hoe zet je auditing uit in Oracle"
 category: [database]
-tags: [database;oracle]
+tags: [database,oracle]
 ---
 {% include JB/setup %}
 
