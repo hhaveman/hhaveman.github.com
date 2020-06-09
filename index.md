@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Henkie's Blog
-tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
