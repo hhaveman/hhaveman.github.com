@@ -3,7 +3,7 @@ layout: post
 title: "Markdown image"
 description: ""
 category: [markdown]
-tags: [markdownr,;pandoc]
+tags: [markdown,pandoc]
 ---
 {% include JB/setup %}
 
