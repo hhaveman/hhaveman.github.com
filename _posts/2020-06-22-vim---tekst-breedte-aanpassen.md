@@ -9,7 +9,7 @@ tags: [vim]
 
 
 Tekst breedte van bijvoorbeeld een Markdown bestand kan worden aangepast door
-het **gq**<beweging> commando. De tekst breedte wordt dan weergegeven tot de
+het **gq** commando. De tekst breedte wordt dan weergegeven tot de
 breedte van de *textwidth* variabele. 
 
 Door de *formatoptions* setting aan te passen en er de waarde *a* aan toe te
