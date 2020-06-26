@@ -2,7 +2,7 @@
 layout: post
 title: "Bash timemillis naar datum"
 description: "Bash timemillis naar datum conversie"
-category: i[linux,bash]
+category: [linux,bash]
 tags: [linux,bash]
 ---
 {% include JB/setup %}
